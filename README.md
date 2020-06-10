@@ -1,4 +1,4 @@
-# kmeansclustering
+# k-Means Clustering
 k-Means Clustering algorithm implemented in C++. Used as a subroutine for Portfolio Optimisation. Lots of interview questions ask for this algorithm so I have decided to implement this from scratch to improve my understanding of the algorithm. 
 
 k-Means clustering allows us to cluster data. It allows us to group similar datapoints together. It does this by ensuring that the total variance within each group is minimised. This variance is calculated using sum-of-square euclidean distance between each datapoint and the cluster center.
